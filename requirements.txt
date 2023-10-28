@@ -1,0 +1,11 @@
+filterpy==1.4.5
+lapx==0.5.5
+matplotlib==3.8.0
+numpy==1.24.1
+opencv_python==4.7.0.72
+opencv_python_headless==4.8.1.78
+scipy==1.11.3
+scikit-image
+tensorflow==2.10.1
+torch
+ultralytics==8.0.200
