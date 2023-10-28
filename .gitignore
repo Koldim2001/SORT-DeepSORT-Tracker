@@ -1,0 +1,14 @@
+*.png
+*.jpg
+*.JPG
+*.txt
+*.zip
+*.csv
+*.mp4
+*.avi 
+*.yaml
+*.pt
+
+**/__pycache__/ 
+.ipynb_checkpoints
+
