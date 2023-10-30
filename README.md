@@ -29,6 +29,6 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 ## Webinar/Tutorial
 Имеется подробный туториал по работе с данным репозиторием, в котором рассказаны основные теоретические и практические моменты по работе с MOT (Multiple Object Tracking)\
 Доступен по клику на иконку:\
-[![webinar video](https://i9.ytimg.com/vi_webp/Y9CBkdhGwqI/mqdefault.webp?v=653d59c9&sqp=CJzc9akG&rs=AOn4CLA5jkZVNjP_pgwphgBDxDBa7uPgFg)](https://www.youtube.com/watch?v=Y9CBkdhGwqI&t=4647s)
+[![webinar video](https://i.ytimg.com/vi/Y9CBkdhGwqI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfkTYExZ1EY14PZUplrzdi0FaGLg)](https://www.youtube.com/watch?v=Y9CBkdhGwqI&t=4647s)
 
 
